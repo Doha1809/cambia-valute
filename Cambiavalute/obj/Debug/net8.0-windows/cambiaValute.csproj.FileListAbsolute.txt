@@ -1,0 +1,16 @@
+C:\Users\Utente\source\repos\cambiaValute\bin\Debug\net8.0-windows\cambiaValute.exe
+C:\Users\Utente\source\repos\cambiaValute\bin\Debug\net8.0-windows\cambiaValute.deps.json
+C:\Users\Utente\source\repos\cambiaValute\bin\Debug\net8.0-windows\cambiaValute.runtimeconfig.json
+C:\Users\Utente\source\repos\cambiaValute\bin\Debug\net8.0-windows\cambiaValute.dll
+C:\Users\Utente\source\repos\cambiaValute\bin\Debug\net8.0-windows\cambiaValute.pdb
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.Form1.resources
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.AssemblyInfo.cs
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.dll
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\refint\cambiaValute.dll
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.pdb
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\cambiaValute.genruntimeconfig.cache
+C:\Users\Utente\source\repos\cambiaValute\obj\Debug\net8.0-windows\ref\cambiaValute.dll
